@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mdc_harjoitustyo</string>
+    //// WeatherActivityn stringit:
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="city_hint_text">City</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="temp">Temp %s c</string>
+    // MainActivity button strings:
+    <string name="foodMenu">Kultturellin ruokalista</string>
+    <string name="weatherActivity">Hae säätietoja</string>
+    <string name="schedule">Lukujärjestys</string>
+</resources>
