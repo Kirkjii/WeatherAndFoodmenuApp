@@ -65,7 +65,7 @@ public class WeatherEngine implements HTTPGetThread.OnWeatherRequestDone
     public void getWeatherData(String city)
     {
         final String BASE_URL =  "http://api.openweathermap.org/data/2.5/weather?q=";
-        final String API_KEY = "&APPID=f19445a739d4ac7835137f837e441d4b";
+        final String API_KEY = //YOUR API KEY HERE, REQUEST IT FROM OPENWEATHERMAP.ORG
         String url = BASE_URL + city + API_KEY;
 
         HTTPGetThread client = new HTTPGetThread(url, this);
