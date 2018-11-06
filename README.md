@@ -5,4 +5,5 @@ This Android app was made for a school course. The user can check the current te
 
 # How does it work?
 Weather data is gathered via OpenWeatherMap's API and the temperature is parsed from the JSON-file. The food menu data is parsed from our university's food menu API.
+[Presentation video](https://www.youtube.com/watch?v=7eWzyGUmz8w)
 
